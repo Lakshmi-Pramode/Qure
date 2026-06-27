@@ -96,9 +96,6 @@ function Profile() {
           <Link to="/dashboard" className="btn-primary" style={{ flex: 1, textAlign: "center" }}>
             Dashboard
           </Link>
-          <Link to="/hospitals" className="btn-secondary" style={{ flex: 1, textAlign: "center" }}>
-            Find Hospital
-          </Link>
         </div>
 
       </div>
