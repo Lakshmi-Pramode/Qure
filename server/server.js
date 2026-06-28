@@ -25,6 +25,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://qure-six.vercel.app",
+      "https://qure-ruby.vercel.app",
     ],
     credentials: true,
   })
